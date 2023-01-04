@@ -18,7 +18,7 @@ backup:
   - tests
   - bots/overmind
   files:
-  - .screepsrc # You probably don't need this, jsut an example
+  - .screepsrc # You probably don't need this, just an example
 serverConfig:
   welcomeText:  |
     <style>.screepsplus h1{  text-align: center; }</style>
